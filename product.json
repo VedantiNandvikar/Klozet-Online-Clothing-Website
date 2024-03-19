@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "name": "Beige Varsity jacket",
+        "price": 1699,
+        "image": "MEN/JACKETS/MJ_Product9.1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Water-repellent puffer gilet",
+        "price": 1000,
+        "image": "MEN/JACKETS/MJ_Product2.1.jpg"
+    },
+    {
+        "id": 3,
+        "name": "White-Sleeveless Puffer Jacket",
+        "price": 1199,
+        "image": "MEN/JACKETS/MJ_Product3.1.jpg"
+    }
+    ,
+    {
+        "id": 4,
+        "name": "Red-Sleeveless Puffer Jacket",
+        "price": 1299,
+        "image": "MEN/JACKETS/MJ_Product4.1.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Black Denim Jacket",
+        "price": 999,
+        "image": "MEN/JACKETS/MJ_Product5.1.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Green Swed Jacket",
+        "price": 1133,
+        "image": "MEN/JACKETS/MJ_Product6.1.jpg"
+    }
+]

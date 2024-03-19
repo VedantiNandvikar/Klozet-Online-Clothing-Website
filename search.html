@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Product Filter And Search</title>
+    <!-- Google Font -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap"
+      rel="stylesheet"
+    />
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="search.css" />
+  </head>
+  <body>
+    <div class="wrapper">
+      <div id="search-container">
+        <input
+          type="search"
+          id="search-input"
+          placeholder="Search product name here.."
+        />
+        <button id="search">Search</button>
+      </div>
+      <div id="buttons">
+        <button class="button-value" onclick="filterProduct('all')">All</button>
+        <button class="button-value" onclick="filterProduct('Sportswear')">
+          Sports Wear
+        </button>
+        <button class="button-value" onclick="filterProduct('Knitwear')">
+            Knit Wear
+          </button>
+          <button class="button-value" onclick="filterProduct('Shirt')">
+            Shirts
+          </button>
+          <button class="button-value" onclick="filterProduct('Sweatshirt')">
+            Sweatshirt
+          </button>
+        <button class="button-value" onclick="filterProduct('Pants')">
+          Pants
+        </button>
+        <button class="button-value" onclick="filterProduct('Jacket')">
+          Jacket
+        </button>
+        <button class="button-value" onclick="filterProduct('Dresses')">
+          Dresses
+        </button>
+      </div>
+      <div id="products"></div>
+    </div>
+    <!-- Script -->
+    <script src="search.js"></script>
+  </body>
+</html>

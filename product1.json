@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "name": "Green Copped Puffer Jacket",
+        "price": 3999,
+        "image": "WOMEN/JACKETS/WJ_Product1.1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Beige Varsit Jecket",
+        "price": 1999,
+        "image": "WOMEN/JACKETS/WJ_Product2.1.jpg"
+    },
+    {
+        "id": 3,
+        "name": "White Long Blazer",
+        "price": 2199,
+        "image": "WOMEN/JACKETS/WJ_Product3.1.jpg"
+    }
+    ,
+    {
+        "id": 4,
+        "name": "long French Coat",
+        "price": 3999,
+        "image": "WOMEN/JACKETS/WJ_Product4.1.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Sporty White",
+        "price": 2999,
+        "image": "WOMEN/JACKETS/WJ_Product5.1.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Crossfit Mode",
+        "price": 1199,
+        "image": "WOMEN/JACKETS/WJ_Product6.1.jpg"
+    }
+]
